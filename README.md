@@ -8,7 +8,7 @@ wanted to see if i could get a reasonable version up and running quickly on my m
 
 i'm happy i got to brush up on some math, rack my brain a bit, and then pull an all nighter to get this done quicker. i'm even more excited to continue working on it - and potentially make a browser version as intended.
 
-i closely followed this tutorial by 10 minute physics and tried to avoid looking at the provided source code as much as possible. 
+i closely followed this [tutorial by 10 Minute Physics](https://www.youtube.com/watch?v=XmzBREkK8kY) and tried to avoid looking at the provided source code as much as possible. massive thanks to 10 Minute Physics for the guidance + help.
 
 notably, some things i'll continue to work on for the next few days to polish it up:
 - lights are currently blinking - somethign to do with how i've set up setting and resetting the led array on each step. 
