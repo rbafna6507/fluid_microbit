@@ -12,3 +12,5 @@ notably, some things i'll continue to work on for the next few days to polish it
 - lights are currently blinking - somethign to do with how i've set up setting and resetting the led array on each step. 
 - i want more of a fluid 'stacking' visual - i suspect it may have to do with how i'm dealing with particle-particle collisions and enforcing the boundaries
 - playing with the simulation parameters to see if any net a more realistic looking simulation. i'm most bottlenecked by the 5x5 led array, but i think i can do slightly better than this.
+
+![gif](flip_fluid_demo.gif)
