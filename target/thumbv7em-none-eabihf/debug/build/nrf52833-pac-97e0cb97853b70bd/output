@@ -1,0 +1,3 @@
+cargo:rustc-link-search=/Users/rbafna/projects/fluid/fluid_microbit/target/thumbv7em-none-eabihf/debug/build/nrf52833-pac-97e0cb97853b70bd/out
+cargo:rerun-if-changed=device.x
+cargo:rerun-if-changed=build.rs

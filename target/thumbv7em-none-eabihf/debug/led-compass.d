@@ -1,0 +1,1 @@
+/Users/rbafna/projects/fluid/fluid_microbit/target/thumbv7em-none-eabihf/debug/led-compass: /Users/rbafna/projects/fluid/fluid_microbit/build.rs /Users/rbafna/projects/fluid/fluid_microbit/src/main.rs
