@@ -15,5 +15,7 @@ notably, some things i'll continue to work on for the next few days to polish it
 - i want more of a fluid 'stacking' visual - i suspect it may have to do with how i'm dealing with particle-particle collisions and enforcing the boundaries
 - playing with the simulation parameters to see if any net a more realistic looking simulation. i'm most bottlenecked by the 5x5 led array, but i think i can do slightly better than this.
 
-GIF here:
-https://pouch.jumpshare.com/preview/-WM2Bzp8v1ynseoT3pBI_1HbHTquG_pYPXVCAMPxihqeueITCEwkth117aMN4334rJVmPGUFUFnt3QUjo-j5CyXu4DUqlp4Owv51xUVLIKs
+![gif](https://pouch.jumpshare.com/preview/nz9HcZ4nScKW60tu_0FQY226pkGO9smtvDY_vPKl6LlypFX46nVO4MhEF8I0TLsWFQc90kfgwdMafa5cH8kJtQKvgqPq1J4W4MiSp6U4_G4)
+
+gif here:
+https://jumpshare.com/share/c1Cxa1LpobEo3vWv6QgH
