@@ -1,5 +1,7 @@
 spent the last ~5 days learning about and hacking on this FLIP/PIC fluid simulation.
 
+code is in /src/main.rs. will be organizing and improving in the coming days.
+
 **a quick gif of my finished progress at the end of this readme**
 
 wanted to see if i could get a reasonable version up and running quickly on my microbit to learn more about rust, embedded development, and applied software projects.
